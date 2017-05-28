@@ -1,0 +1,11 @@
+c:\users\victo\onedrive\documentos\visual studio 2015\Projects\CadastroDeProdutos\CadastroDeProdutos\bin\Debug\CadastroDeProdutos.exe.config
+c:\Users\victo\OneDrive\Documentos\Visual Studio 2015\Projects\CadastroDeProdutos\CadastroDeProdutos\bin\Debug\CadastroDeProdutos.exe
+c:\Users\victo\OneDrive\Documentos\Visual Studio 2015\Projects\CadastroDeProdutos\CadastroDeProdutos\bin\Debug\CadastroDeProdutos.pdb
+c:\Users\victo\OneDrive\Documentos\Visual Studio 2015\Projects\CadastroDeProdutos\CadastroDeProdutos\bin\Debug\MySql.Data.dll
+c:\Users\victo\OneDrive\Documentos\Visual Studio 2015\Projects\CadastroDeProdutos\CadastroDeProdutos\bin\Debug\MySql.Data.xml
+c:\Users\victo\OneDrive\Documentos\Visual Studio 2015\Projects\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.Form1.resources
+c:\Users\victo\OneDrive\Documentos\Visual Studio 2015\Projects\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.Properties.Resources.resources
+c:\Users\victo\OneDrive\Documentos\Visual Studio 2015\Projects\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.csproj.GenerateResource.Cache
+c:\Users\victo\OneDrive\Documentos\Visual Studio 2015\Projects\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.exe
+c:\Users\victo\OneDrive\Documentos\Visual Studio 2015\Projects\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.pdb
+c:\Users\victo\OneDrive\Documentos\Visual Studio 2015\Projects\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.csprojResolveAssemblyReference.cache
